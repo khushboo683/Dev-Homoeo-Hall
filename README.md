@@ -6,15 +6,7 @@ E-commerce website for a homeopathic clinic. Patients can get medicines and medi
 
 
 
-![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
 
-![Screenshot](./Screenshot/Home1.png?raw=true "Screenshot")
-
-![Screenshot](./Screenshot/Admindashboard.png?raw=true "Screenshot")
-
-![Screenshot](./Screenshot/Ordersdashboard.png?raw=true "Screenshot")
-
-![Screenshot](./Screenshot/Rx.png?raw=true "Screenshot")
 
 ## Features of website-
 
@@ -33,6 +25,21 @@ E-commerce website for a homeopathic clinic. Patients can get medicines and medi
 - A search bar on the store page to buy & whishlist products.
 - Wishlist desired items & add to cart feature.
 - Track order/rx delivery status and details of prescription.
+
+
+
+![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
+
+![Screenshot](./Screenshot/Home1.png?raw=true "Screenshot")
+
+![Screenshot](./Screenshot/Admindashboard.png?raw=true "Screenshot")
+
+![Screenshot](./Screenshot/Ordersdashboard.png?raw=true "Screenshot")
+
+![Screenshot](./Screenshot/Rx.png?raw=true "Screenshot")
+
+
+
 
 ### View deployed site- 
 https://devhomoeohall.netlify.app/
