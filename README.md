@@ -8,11 +8,11 @@ Share your favorite eatery with the world.
 
 ![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
 
-![Screenshot](.Screenshot/home1.png?raw=true "Screenshot")
+![Screenshot](.Screenshot/Home1.png?raw=true "Screenshot")
 
-![Screenshot](.Screenshot/Admin Dashboard.png?raw=true "Screenshot")
+![Screenshot](.Screenshot/Admin dashboard.png?raw=true "Screenshot")
 
-![Screenshot](.Screenshot/Order Dashboard.png?raw=true "Screenshot")
+![Screenshot](.Screenshot/Orders dashboard.png?raw=true "Screenshot")
 
 ![Screenshot](.Screenshot/Rx.png?raw=true "Screenshot")
 
