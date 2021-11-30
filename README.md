@@ -27,6 +27,11 @@ E-commerce website for a homeopathic clinic. Patients can get medicines and medi
 - Track order/rx delivery status and details of prescription.
 
 
+### View deployed site- 
+https://devhomoeohall.netlify.app/
+
+
+
 
 ![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
 
@@ -41,8 +46,6 @@ E-commerce website for a homeopathic clinic. Patients can get medicines and medi
 
 
 
-### View deployed site- 
-https://devhomoeohall.netlify.app/
 
 
 
