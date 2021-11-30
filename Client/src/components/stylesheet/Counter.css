@@ -1,0 +1,175 @@
+* {
+   margin: 0;
+   padding: 0;
+ }
+.link {
+    color: #FFF;
+    text-decoration: none;
+  }
+  .link:hover {
+     color: #FFF;
+  }
+.view{
+   color: #2C5364;
+   text-align: right;
+   text-decoration: none;
+}
+.view:hover{
+   color: #203A43;
+   text-decoration: underline;
+}
+
+#acenter{
+   display: flex;
+   justify-content: center;
+  text-align: center;
+  margin-top: 18px;
+}
+#success1{
+   color: #009E60 !important;
+}
+#error1{
+   color: #B22222 !important;
+}
+#midme{
+   text-align: center;
+}
+#rxw{
+   padding-top: 100px;
+}
+#front{
+   height: 89.9px;
+}
+#textx{
+   text-align: center;
+}
+img {
+   width: 100%;
+   height: auto;
+ }
+#buttonarrange{
+   display: grid;
+   justify-content: center;
+   align-items: center;
+}
+@media only screen and (min-width: 1026px) {
+   
+   #title2 {
+       display: none;
+   }
+   
+   #searchp{
+      display: none;
+   }
+   #prespic{
+      margin-top: 2%;
+   }
+}
+#itemss{
+   
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+
+input[type="file"]{
+   display: none;
+}
+#rx{
+   color: white;
+   height: 60px;
+   width: 250px;
+   background-color: #f5af09;
+   position: absolute;
+   font-size: 18px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-family: "Montserrat",sans-serif;
+}
+#send{
+   font-size: 18px;
+}
+#prespic{
+   display: grid;
+   justify-items: center;
+   align-items: center;
+   
+}
+
+#viewall{
+   background-color: #f7f7f7;
+  
+}
+#drawtitle{
+   background-color:#3e6c80 ;
+   color: white;
+   
+}
+#icontop{
+   color: white;
+  
+}
+#icontop1{
+   color: white;
+  margin-right: 20px;
+}
+
+#titlecart2{
+   font-size: 18px;
+}
+#titlecart{
+   font-size: 16px;
+   height: 64px;
+   margin-bottom: 0px;
+}
+
+@media only screen and (max-width: 1026px) {
+   #hide{
+      display: none;
+   }
+   #prespic{
+      margin-top: 4%;
+   }
+   #searchl{
+      display: none;
+   }
+   #front{
+      height: 95px;
+   }
+ 
+   #title {
+       display: none;
+   }
+   #carditem{
+      height: 100%;
+   }
+   #cardgrid{
+      padding: 10px;
+   }
+   #griditem{
+      padding-top:30px ;
+   }
+   #titlecart{
+      font-size: 14px;
+      margin-bottom: 0px;
+   }
+   #titlecart2{
+      font-size: 16px;
+      margin-bottom: 0px;
+   }
+   #rx{
+      height: 50px;
+   width: 160px;
+   font-size: 14px;
+   }
+   #send{
+      font-size: 14px;
+   }
+   #pres{
+      height: 200px;
+   }
+  #hiderx{
+     display: none;
+  }
+}

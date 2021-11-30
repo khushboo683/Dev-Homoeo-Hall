@@ -1,0 +1,15 @@
+#titlecartt{
+    text-align: center;
+    color: #404040;
+}
+#itemss{
+    margin-top: 100px;
+}
+#addnew{
+    margin-top: 10px;
+}
+@media only screen and (max-width: 1026px) {
+    #itemss{
+        margin-top: 10px;
+    }
+}

@@ -1,0 +1,142 @@
+
+.main-slide{
+    padding-top: 30px;
+    width: 400px;
+   
+    box-shadow: 0 2px 4px 0 gray, 0 4px 16px 0 gray;
+}
+
+.carousel .slider-wrapper{
+    width: 70%;
+}
+
+.carousel .thumb{
+    width: 5%;
+    height: 50px;
+}
+.carousel.carousel-slider {
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    
+}
+.carousel{
+    text-align: center;
+}
+.carousel .thumb {
+
+    height: 68px;
+    
+}
+.carousel .thumb.selected, .carousel .thumb:hover {
+    border: 1px solid #2C5364;
+    height: 68px;
+   
+    border-radius: 5%;
+}
+
+.carousel .control-dots {
+    position: absolute;
+    bottom: 0;
+    margin: 10px 0;
+   
+    padding: 0;;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+    
+}
+.carousel.carousel-slider .control-arrow {
+    background: #808080;
+    margin-bottom: 18%;
+    margin-top: 40%;
+    border-radius: 7%;
+    width: 25px;
+    /* display: none; */
+}
+.carousel .control-next.control-arrow:before {
+    border-left: 10px solid #fff;
+}
+
+.carousel .carousel-status {
+    display: none;
+}
+#prdname{
+    color: #56565a;
+    font-family: Roboto Condensed,sans-serif;
+    font-size: 1.75rem;
+    padding-bottom: 15px;
+   text-align: left;
+}
+#revname{
+    color: #363227;
+    font-family: Roboto Condensed,sans-serif;
+    font-size: 1.75rem;
+    padding-bottom: 15px;
+   text-align: left;
+}
+
+#bord{
+    width: 30rem;
+}
+#quan{
+    font-size: 20px;
+   
+}
+#rate{
+    font-size: 20px;
+}
+#reveiw{
+    margin-left: 4%;
+    margin-bottom: 15px;
+}
+.MuiTextField-root{
+    width: 610px;
+}
+#rate{
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 0px;
+    font-weight: 500;
+}
+#desp{
+    padding-left: 27px;
+    border: 1px solid #363227;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+#sizes{
+    border-top: 1px solid #363227;
+    margin-top:0px;
+    padding-top: 16px;
+}
+@media only screen and (max-width: 1026px) {
+    #prdname{
+        padding-bottom: 10px;
+    }
+    #bord{
+        width: 20rem;
+    }
+    .carousel.carousel-slider .control-arrow {
+        display: none;
+    }
+    .main-slide{
+        width: 350px;
+        
+    }
+   
+.carousel .control-dots {
+    width: 360px;
+}
+
+.carousel * {
+    box-sizing: border-box;
+}
+
+ol, ul {
+    padding-left: 0rem;
+}
+.MuiTextField-root{
+    width: 270px;
+}
+}

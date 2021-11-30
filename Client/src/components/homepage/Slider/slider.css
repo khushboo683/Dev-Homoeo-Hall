@@ -1,0 +1,28 @@
+html, body {
+    padding:0;
+    margin:0;
+}
+h4{
+    margin: 0px;
+    text-align: center;
+    
+}
+.title{
+    font-family: LatoBold;
+    font-weight: 800;
+    padding-left: 3%;
+    margin-top: 10px;
+     margin-bottom: 0px;
+    padding-bottom: 10px;
+    padding-top: 0.8%; 
+    
+    background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    /* border: 3px solid 	#FFFFFF ;
+    border-left: 0px;
+    text-align: center;
+    border-right: 0px;
+    border-top: 0px; */
+}
