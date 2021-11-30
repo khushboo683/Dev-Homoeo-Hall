@@ -1,37 +1,33 @@
-# Foodie
-Let's discover the foodie inside you !
+# Dev Homoeo Hall
+E-commerce website for a medical store.
 
-Share your favorite eatery with the world. 
+ 
 
 
 
 
 ![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
 
-![Screenshot](.Screenshot/Home1.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/Home1.png?raw=true "Screenshot")
 
-![Screenshot](.Screenshot/Admin dashboard.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/Admin dashboard.png?raw=true "Screenshot")
 
-![Screenshot](.Screenshot/Orders dashboard.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/Orders dashboard.png?raw=true "Screenshot")
 
-![Screenshot](.Screenshot/Rx.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/Rx.png?raw=true "Screenshot")
 
 ### Features of website-
-- Let's you post about your favorite eatery.
-- Rate and review others' post.
-- Find the eatery on map.
+- Admin portal to maintain the website.
+- Maintain orders in pending, delivered and cancelled categories.
+- View user details
+- Order products and medicines, upload prescriptions.
+- Check products category wise.
+- Wishlist desired items.
+- Track order status.
 
 ### View deployed site- 
-https://foodiepana.herokuapp.com/
+https://devhomoeohall.netlify.app/
 
-
-### HOW TO RUN (In local machine)
-
-- Download ZIP or Clone the repository
-- Navigate to the directory
-- Open Terminal and type `npm install` It will install all dependencies
-- Then type `node app.js` It will start the server
-- Type `localhost:3000` to go to the index page
 
 
 ### Things used to make the Project
@@ -39,14 +35,12 @@ https://foodiepana.herokuapp.com/
 Back-end Side :-
 - [NodeJS](https://nodejs.org/en/docs/)
 - [ExpressJS](https://expressjs.com/en/4x/api.html)
-- Express-[Session](https://github.com/expressjs/session)
 - [MongoDB](https://www.mongodb.com/)([Mongoose](mongoosejs.com/docs/)/[connect-mongo](https://www.npmjs.com/package/connect-mongo))
-- [EJS](http://ejs.co/)
 - [Cloudinary](https://cloudinary.com/documentation)
-- [Mapbox](https://docs.mapbox.com/)
-- [Passport](http://passportjs.org/docs)
+- [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 
 Front-end Side :-
-- [Bootstrap 5](https://getbootstrap.com/)
-- CSS3
+- [React](https://reactjs.org/)
+- [Material-UI](https://mui.com/)
+- CSS
 - [Javascript](https://www.javascript.com/)
