@@ -42,5 +42,6 @@ Back-end Side :-
 Front-end Side :-
 - [React](https://reactjs.org/)
 - [Material-UI](https://mui.com/)
+- [Typescript](https://www.typescriptlang.org/)
 - CSS
 - [Javascript](https://www.javascript.com/)
