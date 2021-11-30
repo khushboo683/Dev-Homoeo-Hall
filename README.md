@@ -10,9 +10,9 @@ E-commerce website for a medical store.
 
 ![Screenshot](./Screenshot/Home1.png?raw=true "Screenshot")
 
-![Screenshot](./Screenshot/Admin dashboard.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/Admindashboard.png?raw=true "Screenshot")
 
-![Screenshot](./Screenshot/Orders dashboard.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/Ordersdashboard.png?raw=true "Screenshot")
 
 ![Screenshot](./Screenshot/Rx.png?raw=true "Screenshot")
 
