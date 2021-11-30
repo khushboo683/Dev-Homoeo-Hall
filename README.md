@@ -12,7 +12,7 @@ E-commerce website for a homeopathic clinic. Patients can get medicines and medi
 
 #### Admin Side :-     
 - View & manage user activity.
-- Monitors order delivery as pending delivered and canceled categories.
+- Monitors order delivery as pending, delivered and canceled categories.
 - Add, edit and delete product details in store.
 - Maintain prescription/RX status and decide the price of medicines and show it to the user.
 - Divide products into different categories on the user homepage.
@@ -32,7 +32,7 @@ https://devhomoeohall.netlify.app/
 
 
 
-
+### Screenshots of site- 
 ![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
 
 ![Screenshot](./Screenshot/Home1.png?raw=true "Screenshot")
