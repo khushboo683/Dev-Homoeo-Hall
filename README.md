@@ -6,11 +6,15 @@ Share your favorite eatery with the world.
 
 
 
-![Screenshot](./public/screenshot/welcome.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
 
-![Screenshot](./public/screenshot/map.png?raw=true "Screenshot")
+![Screenshot](.Screenshot/home1.png?raw=true "Screenshot")
 
-![Screenshot](./public/screenshot/review.png?raw=true "Screenshot")
+![Screenshot](.Screenshot/Admin Dashboard.png?raw=true "Screenshot")
+
+![Screenshot](.Screenshot/Order Dashboard.png?raw=true "Screenshot")
+
+![Screenshot](.Screenshot/Rx.png?raw=true "Screenshot")
 
 ### Features of website-
 - Let's you post about your favorite eatery.
